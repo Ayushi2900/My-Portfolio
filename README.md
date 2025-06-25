@@ -1,2 +1,2 @@
 # My-Portfolio
-this is my personal portfolio.I made this with the technology of html,css and bootstrap.there is given my all information including my education and my skills.
+I created this personal portfolio website using HTML, CSS, and Bootstrap. It is a user-friendly platform where I have showcased all relevant information about myself, including my skills, education, projects, certifications, and contact details. The main goal of this portfolio is to provide a quick and organized overview of my background and achievements.
